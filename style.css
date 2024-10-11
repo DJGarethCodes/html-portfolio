@@ -1,0 +1,68 @@
+#index {
+    background-image: url(./Matrix.jpg);
+    background-size: 1500px 400px;
+    background-repeat: no-repeat;
+    background-color: black;
+    
+}
+
+#hobbies {
+    background-image: url(./Matrix.jpg);
+    background-size: 1500px 225px;
+    background-repeat: no-repeat;
+    background-color: black;
+    
+}
+
+#contact {
+    background-image: url(./Matrix.jpg);
+    background-size: 1500px 400px;
+    background-repeat: no-repeat;
+    background-color: black;
+    
+}
+
+.center {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  background-image: initial;
+}
+
+h1 {
+    text-align: center;
+    font-size: 5rem;
+    font-family: "Courier Prime", monospace, monospace;
+    background-color: transparent;
+    color: whitesmoke;
+}
+
+p {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+.text {
+    color: white;
+}
+
+.hobbies {
+    color: blue;
+}
+
+* {
+    text-align: center;
+    font-family: "Courier Prime", monospace, monospace;
+}
+
+#matrix {
+    border-radius: 15px 15px 15px 15px;
+}
+
+li {
+    list-style: none;
+}
